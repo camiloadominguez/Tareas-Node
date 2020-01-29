@@ -1,6 +1,6 @@
 ## ejercicio empleando yargs
 
-Aplicaion para la administración de tareas 
+Aplicación para la administración de tareas 
 
 ```
 npm install
